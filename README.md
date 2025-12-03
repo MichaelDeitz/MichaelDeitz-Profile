@@ -1,45 +1,31 @@
-Hello, I'm Michael 👋
+👋 Hello, I'm Michael
 
-I'm a Release Coordinator at Pearl Insurance, passionate about IT operations. I'm a beginner with C# and SQL, currently focusing on Entity Framework and building my own database.
+IT Release Coordinator with 8+ years of experience in IT operations, system support, and process improvement. I specialize in coordinating complex releases, partnering with cross-functional teams, and ensuring full SDLC compliance.
 
----
+Skilled in Azure DevOps, CRM platforms, SQL, and workflow optimization, I’m an aspiring IT Supervisor and Product Owner who’s passionate about driving efficiency and delivering high-quality IT solutions.
 
+🌴 A Bit About Me
 
-
-
-🏖️ I love the beach & fishing
-
-🏈 Big Miami Dolphins fan
-
-💡 Looking to connect? Open to tech, product, and business collaborations!
+🏖️ Beach lover & fishing enthusiast
+🏈 Loyal Miami Dolphins fan
+💡 Open to connecting on tech, product, or business collaborations
 
 🌟 My Tech Journey
 
-
-
-
----
-💻 Coordinating IT releases at Pearl Insurance using Azure DevOps and ensuring 100% SDLC compliance
-
-🔍 Learning C#, SQL, and Entity Framework as a beginner for backend development
-
-🏗️ Building personal projects to strengthen my database and coding skills
-
-🤝 Open for collaborations on tech, product, or business
-
-⚡ Fun Fact: I enjoy fishing as much as I enjoy coding!
-
-
+💻 Coordinating IT releases at Pearl Insurance using Azure DevOps with consistent SDLC alignment
+🔍 Learning C#, SQL, and Entity Framework to grow my backend development skills
+🏗️ Building personal projects to strengthen my database and coding foundations
+⚡ Fun fact: I enjoy fishing as much as I enjoy coding!
 
 
 ---
 🛠 My Dev Arsenal
 
-Release & Project Management: Coordinating IT releases, managing workflows, ensuring SDLC compliance
+Release & Project Management: IT release coordination, Workflow management, SDLC compliance
 
 Technical Tools & Systems: Azure DevOps, CRM platforms, Git
 
-Analysis & Problem-Solving: Identifying issues, optimizing processes, supporting teams
+Analysis & Problem-Solving: Issue identification, Process optimization, Cross-team support
 
 Programming Languages (Beginner): C#, SQL, Entity Framework
 
